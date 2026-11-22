@@ -8,8 +8,7 @@ https://vmachota.github.io/VYGEO_semestralka/
 nahrány generované soubory pro web, je potřeba se domluvit na další koncepci
 
 ## Koncepce:
-### Mapa:
-#### Obsah:
+#### Obsah mapy:
 rastr: fgm orto
 vektor: zajmoveUzemi[Poly], cesty[Line/Poly], zastavba(kostel,kaple,hrbitov)[Pt/Poly], lavicky?[Pt]
 atributy u daných featurek => zobrazení uživateli => popupy, kartometody,...
