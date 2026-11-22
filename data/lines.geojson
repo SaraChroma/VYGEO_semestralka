@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "nazev": "Trasa 1", "typ": "Turistická stezka", "delka_km": 9.8, "popis": "Placeholder linie číslo 1" },
+      "geometry": { "type": "LineString", "coordinates": [[17.2000,49.5650],[17.2250,49.5780],[17.2509,49.5938],[17.2750,49.6020],[17.3100,49.6100]] } },
+    { "type": "Feature", "properties": { "nazev": "Trasa 2", "typ": "Cyklostezka", "delka_km": 7.2, "popis": "Placeholder linie číslo 2" },
+      "geometry": { "type": "LineString", "coordinates": [[17.2100,49.6150],[17.2400,49.6000],[17.2600,49.5850],[17.2900,49.5750],[17.3150,49.5680]] } }
+  ]
+}

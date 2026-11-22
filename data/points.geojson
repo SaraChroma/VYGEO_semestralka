@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "nazev": "Bod A", "typ": "Rozhledna", "popis": "Placeholder bod číslo 1", "rok": 2021 },
+      "geometry": { "type": "Point", "coordinates": [17.2509, 49.5938] } },
+    { "type": "Feature", "properties": { "nazev": "Bod B", "typ": "Pramen", "popis": "Placeholder bod číslo 2", "rok": 2019 },
+      "geometry": { "type": "Point", "coordinates": [17.2900, 49.6050] } },
+    { "type": "Feature", "properties": { "nazev": "Bod C", "typ": "Památník", "popis": "Placeholder bod číslo 3", "rok": 2015 },
+      "geometry": { "type": "Point", "coordinates": [17.2150, 49.5800] } },
+    { "type": "Feature", "properties": { "nazev": "Bod D", "typ": "Odpočívadlo", "popis": "Placeholder bod číslo 4", "rok": 2023 },
+      "geometry": { "type": "Point", "coordinates": [17.3000, 49.5700] } }
+  ]
+}

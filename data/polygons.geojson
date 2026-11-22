@@ -1,0 +1,9 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "nazev": "Plocha 1", "typ": "Park", "plocha_ha": 42.5, "popis": "Placeholder polygon číslo 1" },
+      "geometry": { "type": "Polygon", "coordinates": [[[17.2300,49.5850],[17.2550,49.5880],[17.2600,49.5760],[17.2380,49.5720],[17.2300,49.5850]]] } },
+    { "type": "Feature", "properties": { "nazev": "Plocha 2", "typ": "Chráněné území", "plocha_ha": 118.0, "popis": "Placeholder polygon číslo 2" },
+      "geometry": { "type": "Polygon", "coordinates": [[[17.2700,49.6100],[17.3050,49.6150],[17.3150,49.6020],[17.2850,49.5950],[17.2700,49.6100]]] } }
+  ]
+}
