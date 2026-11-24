@@ -7,6 +7,15 @@ https://vmachota.github.io/VYGEO_semestralka/
 ## Timeline a TODO:
 nahrány generované soubory pro web, je potřeba se domluvit na další koncepci
 
+### V:
+kompozice celkova a design
+### A:
+kompozice celkova a design
+### S:
+fotky, text, konzultace design
+### N:
+data příprava
+
 ## Koncepce:
 #### Obsah mapy:
 rastr: fgm orto
